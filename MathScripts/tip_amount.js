@@ -2,13 +2,13 @@
 
 // sample inputs
 
-var foodBill
-var tip
+var foodBill;
+var tip;
 
 // calculations
  
-var totalDue = foodBill / tip
+var totalDue = foodBill / tip;
 
 // output
 
-console.log(" The tip on a " + foodBill + " food bill is " + tip)
+console.log(" The tip on a " + foodBill + " food bill is " + tip);
