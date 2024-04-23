@@ -6,7 +6,7 @@ var num1 = 9;
 var num2 = 5;
 var tempCelsius = 34;
 var num3 = 32;
-var fareinheit 
+var fareinheit;
 
 // calculation
 
