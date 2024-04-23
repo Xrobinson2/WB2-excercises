@@ -10,4 +10,4 @@ var totalDue = length * width;
 
 //output
 
-console.log(" The are of a rectangle is " + totalDue)
+console.log(" The area of a rectangle is " + totalDue)
