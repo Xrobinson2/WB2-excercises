@@ -3,8 +3,8 @@
 
 // declared variables
 
-var studentName = Xavier;
-var studentMajor;
+var studentName = "Xavier";
+var studentMajor= "CSCI";
 var advisingLocation;
 var majorCode = BIOL;
 
@@ -23,9 +23,8 @@ var Room310b = " Westly Hall, Room 310";
 
 //if statement
  
-if (  majorCode == BIOL + Room310 && + studentName ) {
-    advisingLocation = Room310
-    console.log(message)
+if (  studentMajor == "BIOL" ) {
+    
 }
 
 
@@ -33,4 +32,6 @@ if (  majorCode == BIOL + Room310 && + studentName ) {
 
 // out put
 
-message = ( "Student Name:" + studentName , " Major: " + majorCode , " Advising Locaction: " + advisingLocation )
+console.log( " Student: " + studentName)
+console.log("Major: " + studentMajor)
+console.log("Advising Location: " + advisingLocation)
